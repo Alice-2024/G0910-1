@@ -4,3 +4,4 @@ Console.WriteLine("Hello, World!");
 //master1
 Console.WriteLine("Hello, World!");
 //master2
+Console.WriteLine("Hello, World!");
